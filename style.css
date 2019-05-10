@@ -910,8 +910,8 @@ Nav Menu style
     position: relative;
 }
 .home{
-    background: url(../images/background/home.jpg) no-repeat top center;
-    background-size:100% 100%;
+    background: url(../images/background/home.jpg) no-repeat top center;  /*改动处，背景图路径以及命名如代码所示*/
+    background-size:100% 100%;   /*增加处*/
 }
 .service-banner{
     background: url(../images/background/services-bg.jpg) no-repeat bottom center;
